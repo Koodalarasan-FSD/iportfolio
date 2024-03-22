@@ -1,2 +1,2 @@
 # iportfolio
-It's my portfolio programming
+It's my portfolio programming files which is used to hosted in netlify.com and so don't delete these repository and careful handle the files in it...
